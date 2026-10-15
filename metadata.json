@@ -1,0 +1,6 @@
+{
+  "name": "DoseStrip - Smart Medication & Health Dashboard",
+  "description": "Liquid glass medical reminder and health tracker application with daily schedules, adherence tracking, medication management, doctor directory, and health library.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
